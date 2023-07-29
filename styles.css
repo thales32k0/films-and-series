@@ -1,0 +1,138 @@
+:root {
+    --cor-secundaria:#748aff;
+    --cor-terciaria:#CDC2AE;
+    --cor-hover:#dde7ff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(to right,#748aff,#CDC2Ae);
+    box-sizing: border-box;
+    background-color: var(--cor-secundaria);
+    color: var(--cor-hover)
+}
+
+.cabecalho__menu {
+    background-color: #dde7ff;
+}
+
+.cabecalho__home {
+    margin-left: 550px; 
+    font-family:  A Std, monospace;
+    font-weight: 600;  
+    font-size: 20px;
+    color: var(--cor-secundaria);
+    text-decoration: none;
+}
+
+.cabecalho__sobre {
+    margin-left: 40px; 
+    font-family:  A Std, monospace;
+    font-weight: 600;
+    font-size: 20px;  
+    color: var(--cor-secundaria);
+    text-decoration: none;
+}
+
+.apresentacao {
+    padding: 2% 0% 0% 5%;    
+}
+
+.apresentacao_titulo {
+    display: flexbox;
+    gap: 10px;
+    margin-right: 50px;
+    font-family:  A Std, monospace;
+    font-weight: 600;  
+}
+
+/* Edição das imagens*/
+.imagens {
+    gap: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px; 
+}
+    
+.rodape {
+    padding: 30px;
+    margin-top: 150px;
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    color:#748aff;
+    background-color:#c1d2ff;
+    text-align: center;
+}
+
+/*Animação das imagens*/
+.image-link img:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+    max-width: 100%;
+    height: auto;
+}
+
+/*Titulo em cima dos links das redes sociais*/
+.apresentacao__links__subtitulo {
+    color: #dde7ff;
+    font-size: 17px; 
+    font-family:  A Std, monospace;
+    margin-left: 600px;
+    margin-bottom: 200px;
+    margin-top: -400px;
+}
+
+/* Edição do botão do Git*/
+.apresentacao__git {
+    display: flex; 
+    justify-content: center;
+    gap: 6px;
+    border: 2px solid var(--cor-terciaria);
+    width: 20%;
+    border-radius: 9px;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #748aff;
+    font-family:  A Std, monospace;
+    margin-left: 600px;
+    margin-bottom: 200px;
+    margin-top: -190px;
+}
+
+/* Edição do botão do Insta*/
+.apresentacao__insta {
+    display: flex; 
+    justify-content: center;
+    gap: 6px;
+    border: 2px solid var(--cor-terciaria);
+    width: 20%;
+    border-radius: 9px;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #748aff;
+    font-family:  A Std, monospace;
+    margin-left: 600px;
+    margin-bottom: 380px;
+    margin-top: -190px;
+}
+
+.descricao {
+    font-size: 20px;
+    padding:5% 70% 2% 10%;
+    left: 100px;
+}
+
+.segundo_paragrafo {
+    font-size: 20px;
+    padding:1% 70% 1% 10%;
+}    
