@@ -2,7 +2,7 @@
 
  A website in HTML and CSS about my favorite series and movies. // Um site em HTML e CSS sobre  minhas séries e filmes favoritos.
 
- ![Filmes Preview](.png)
+ ![Filmes Preview](Series.png)
 
  ## Functionalities // Funcionalidades
 
