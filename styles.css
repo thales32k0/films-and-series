@@ -145,6 +145,12 @@ body {
     margin-right: 50%;
 }    
 
+    .image-container img {
+        flex: 0 0 calc(50% - 10px); /* Largura de 50% do espaço disponível menos 10px de margem total */
+        box-sizing: border-box;
+        margin: 0 5px; /* Margem entre as imagens */
+    }
+
 /* Media query for mobile responsiveness */
 @media only screen and (max-width: 600px) {
     .cabecalho__menu {
