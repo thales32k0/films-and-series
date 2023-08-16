@@ -12,4 +12,4 @@
 - `Functionalites`: Simple interface. // Interface simples 
 
  # Developer
- | [<img loading="lazy" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k)|
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k)
