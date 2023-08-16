@@ -1,4 +1,4 @@
-# 🎥 Films-and-series // Filmes e Séries
+# 🎥 Films and series // Filmes e Séries
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
 </p>
