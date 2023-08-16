@@ -8,10 +8,7 @@
  ![Filmes Preview](Series.png)
 
 🛠️ ## Functionalities // Funcionalidades
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-- Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
-- Simple interface. // Interface simples 
+- `Functionalities`: Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
+- `Functionalites`: Simple interface. // Interface simples 
  
               Feito por Thales // Made by Thales
