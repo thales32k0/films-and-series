@@ -9,7 +9,7 @@
 
  ## 🛠️ Functionalities // Funcionalidades
 - `Functionalities 1`: Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
-- `Functionalites 1`: Simple interface. // Interface simples 
+- `Functionalites 2`: Simple interface. // Interface simples 
 
  # Developer
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k)
