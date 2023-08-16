@@ -1,4 +1,4 @@
-# Films-and-series // Filmes e Séries
+🎥 # Films-and-series // Filmes e Séries
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -7,7 +7,7 @@
 
  ![Filmes Preview](Series.png)
 
- ## Functionalities // Funcionalidades
+🛠️ ## Functionalities // Funcionalidades
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
