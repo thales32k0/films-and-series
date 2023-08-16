@@ -2,8 +2,6 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
 </p>
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=Release-date&message=%20august&color=ORANGE&style=for-the-badge"/>
 
  A website in HTML and CSS about my favorite series and movies. // Um site em HTML e CSS sobre  minhas séries e filmes favoritos.
 
