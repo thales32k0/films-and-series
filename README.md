@@ -10,5 +10,6 @@
 🛠️ ## Functionalities // Funcionalidades
 - `Functionalities`: Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
 - `Functionalites`: Simple interface. // Interface simples 
- 
-              Feito por Thales // Made by Thales
+
+ # Developer
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k)|
