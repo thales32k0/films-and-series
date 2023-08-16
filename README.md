@@ -7,7 +7,7 @@
 
  ![Filmes Preview](Series.png)
 
-🛠️ ## Functionalities // Funcionalidades
+ ## 🛠️ Functionalities // Funcionalidades
 - `Functionalities`: Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
 - `Functionalites`: Simple interface. // Interface simples 
 
