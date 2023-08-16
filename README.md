@@ -1,7 +1,7 @@
 # 🎥 Films and series // Filmes e Séries
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
- { "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
+(https://img.shields.io/badge/release-date-august-orange)
 </p>
 
 
