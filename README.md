@@ -13,7 +13,7 @@
 - `Functionalities 3`: Access links for each content. // Link de acesso para cada conteúdo.
 
 ## 🛠️ How to use // Como usar
-- `Acess link // Acesse o link`:
+- `Acess link // Acesse o link`: https://second-project-theta-five.vercel.app/
 - `Choose a movie or series // Escolha um filme ou série`: You will be redirected to the page and you can watch. // Você será redirecionado para a página e poderá assistir.
 
  # Developer
