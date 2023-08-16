@@ -13,7 +13,8 @@
 - `Functionalities 3`: Access links for each content. // Link de acesso para cada conteúdo.
 
 ## 🛠️ How to use // Como usar
-- 
+- `Acess link // Acesse o link`:
+- `Choose a movie or series // Escolha um filme ou série`: You will be redirected to the page and you can watch. // Você será redirecionado para a página e poderá assistir.
 
  # Developer
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
