@@ -1,6 +1,6 @@
 # 🎥 Films and series // Filmes e Séries
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=status&message=under%20devolopment&color=GREEN&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
 </p>
 
  A website in HTML and CSS about my favorite series and movies, it you have the possibility to click on any movie that is included in it (so far) and be redirected to watch it online 😄 // Um site em HTML e CSS sobre  minhas séries e filmes favoritos, nele você tem a possibilidade de clicar em qualquer filme que está incluso nele(até o momento) e ser redirecionado para assisti-lo online 😄
