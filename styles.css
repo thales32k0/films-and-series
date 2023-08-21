@@ -1,192 +1,148 @@
 :root {
-    --cor-secundaria:#748aff;
-    --cor-terciaria:#CDC2AE;
-    --cor-hover:#dde7ff;
+  --cor-secundaria: #748aff;
+  --cor-terciaria: #cdc2ae;
+  --cor-hover: #dde7ff;
 }
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-image: linear-gradient(to right,#748aff,#CDC2Ae);
-    box-sizing: border-box;
-    background-color: var(--cor-secundaria);
-    color: var(--cor-hover)
+  background-image: linear-gradient(to right, var(--cor-secundaria), var(--cor-terciaria));
+  background-color: var(--cor-secundaria);
+  color: var(--cor-hover);
 }
 
 .cabecalho__menu {
-    background-color: #dde7ff;
+  background-color: #dde7ff;
+}
+
+.cabecalho__item {
+  margin-left: 40px;
+  font-family: A Std, monospace;
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--cor-secundaria);
+  text-decoration: none;
 }
 
 .cabecalho__home {
-    margin-left: 550px; 
-    font-family:  A Std, monospace;
-    font-weight: 600;  
-    font-size: 20px;
-    color: var(--cor-secundaria);
-    text-decoration: none;
-}
-
-.cabecalho__sobre {
-    margin-left: 40px; 
-    font-family:  A Std, monospace;
-    font-weight: 600;
-    font-size: 20px;  
-    color: var(--cor-secundaria);
-    text-decoration: none;
+  margin-left: 550px;
 }
 
 .apresentacao {
-    padding: 2% 0% 0% 5%;    
+  padding: 2% 0% 0% 5%;
 }
 
-/*Edição do Titulo*/
 .apresentacao_titulo {
-    display: flexbox;
-    gap: 10px;
-    margin-right: 50px;
-    font-family:  A Std, monospace;
-    font-weight: 600;  
+  display: flex;
+  gap: 10px;
+  margin-right: 50px;
+  font-family: A Std, monospace;
+  font-weight: 600;
 }
 
-/* Edição das imagens*/
 .imagens {
-    gap: 10px;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    margin-right: 5%;
-    margin-left: 5%; 
+  display: flex;
+  gap: 10px;
+  margin: 2% 5%;
 }
-    
+
 .rodape {
-    padding: 30px;
-    margin-top: 5%;
-    margin-right: 0%;
-    margin-left: 0%;
-    margin-bottom: 0%;
-    color:#748aff;
-    background-color:#c1d2ff;
-    text-align: center;
+  padding: 30px;
+  margin: 5% 0%;
+  color: #748aff;
+  background-color: #c1d2ff;
+  text-align: center;
 }
 
-/*Animação das imagens*/
 .image-link img:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-    max-width: 100%;
-    height: auto;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+  max-width: 100%;
+  height: auto;
 }
 
-/*Titulo em cima dos links das redes sociais*/
 .apresentacao__links__subtitulo {
-    color: #dde7ff;
-    font-size: 17px; 
-    font-family:  A Std, monospace;
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-bottom: 2%;
-
+  color: #dde7ff;
+  font-size: 17px;
+  font-family: A Std, monospace;
+  margin: 2% 5%;
 }
 
-/* Edição do botão do Git*/
-.apresentacao__git {
-    display: flex; 
-    justify-content: center;
-    gap: 1px;
-    border: 2px solid var(--cor-terciaria);
-    width: 20%;
-    border-radius: 9px;
-    font-size: 1rem;
-    font-weight: 600;
-    padding: 1%;
-    text-decoration: none;
-    color: #CDC2AE;
-    font-family:  A Std, monospace;
-    margin-left: 5%;
-    margin-bottom: 1%;
-    margin-top: 1%;
-    align-items: center;
-}
-
-/* Edição do botão do Insta*/
-.apresentacao__insta {
-    display: flex; 
-    justify-content: center;
-    gap: 1px;
-    border: 2px solid var(--cor-terciaria);
-    width: 20%;
-    border-radius: 9px;
-    font-size: 1rem;
-    font-weight: 600;
-    padding: 1%;
-    text-decoration: none;
-    color: #CDC2AE;
-    font-family:  A Std, monospace;
-    margin-left: 5%;
-    margin-bottom: 10%;
-    margin-top: 1%;
-    align-items: center;
+.apresentacao__social-link {
+  display: flex;
+  justify-content: center;
+  gap: 1px;
+  border: 2px solid var(--cor-terciaria);
+  width: 20%;
+  border-radius: 9px;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 1%;
+  text-decoration: none;
+  color: #cdc2ae;
+  font-family: A Std, monospace;
+  margin: 1% 5% 10%;
+  align-items: center;
 }
 
 .descricao {
-    justify-content: center;
-    margin-left: 5%;
-    margin-right: 50%;
-    margin-top: 5%;
-    font-size: 20px;
+  justify-content: center;
+  margin: 5% 5% 0%;
+  font-size: 20px;
 }
 
 .segundo_paragrafo {
-    font-size: 20px;
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-right: 50%;
-}    
+  font-size: 20px;
+  margin: 2% 5%;
+}
 
-
-/* Media query for mobile responsiveness */
 @media only screen and (max-width: 600px) {
-    .cabecalho__menu {
-        display: flex;
-        justify-content: center;
-    }
+  .cabecalho__menu {
+    display: flex;
+    justify-content: center;
+  }
 
-    .cabecalho__home {
-        margin-left: 2%;
-    }
+  .cabecalho__item {
+    margin-left: 2%;
+  }
 
-    .descricao {
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 5%;
-    }
+  .descricao {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5%;
+  }
 
-    .apresentacao_titulo {
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    .apresentacao__links__subtitulo {
-        justify-content: left;
-        margin-top: 10%;
-        margin-bottom: 5%;
-        margin-left: 3%;
-    }
-    .image-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: flex-start; /* Iniciar justificação a partir da esquerda */
-        margin: 0 -5px; /* Margens negativas para compensar as margens individuais das imagens */
-    }
-    
-    .image-container img {
-        flex: 0 0 calc(50% - 10px); /* Largura de 50% do espaço disponível menos 10px de margem total */
-        box-sizing: border-box;
-        margin: 0 5px; /* Margem entre as imagens */
-    }
-    .apresentacao__git, .apresentacao__insta {
-        padding: 5%;
-    }
-}    
+  .apresentacao_titulo {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .apresentacao__links__subtitulo {
+    justify-content: left;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+  }
+
+  .imagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 -5px;
+  }
+
+  .imagens img {
+    flex: 0 0 calc(50% - 10px);
+    box-sizing: border-box;
+    margin: 0 5px;
+  }
+
+  .apresentacao__social-link {
+    padding: 5%;
+  }
+}
