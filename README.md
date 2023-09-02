@@ -1,4 +1,10 @@
-# 🎥 Films and series // Filmes e Séries
+### 🎥 Films and series // Filmes e Séries
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
 </p>
@@ -7,14 +13,20 @@
 
  ![Filmes Preview](Series.png)
 
- ## 🔨 Functionalities // Funcionalidades
+---
+
+ ### 🔨 Functionalities // Funcionalidades
 - `Functionalities 1`: Show my favorite movies and series. // Exibir meus filmes e séries favotitos.
 - `Functionalities 2`: Simple interface. // Interface simples.
 - `Functionalities 3`: Access links for each content. // Link de acesso para cada conteúdo.
 
-## 🛠️ How to use // Como usar
+---
+
+### 🛠️ How to use // Como usar
 - `Acess link // Acesse o link`: https://second-project-theta-five.vercel.app/
 - `Choose a movie or series // Escolha um filme ou série`: You will be redirected to the page and you can watch. // Você será redirecionado para a página e poderá assistir.
 
- # Developer
+---
+
+### Developer
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
